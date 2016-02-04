@@ -12,7 +12,7 @@ Thus the class will be connected to the project.
 Dijkstra algorithm is working
 
 ## Example
-With the actual MatrixParser and Dijkstra
+With the actual MatrixParser and Dijkstra</br>
 Input : 
 ```
 10									
